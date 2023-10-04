@@ -33,13 +33,14 @@ setup(
         "Issue tracker": "https://github.com/myusername/tutor-contrib-hpa/issues",
     },
     license="AGPLv3",
-    author="Andrés González",
-    description="hpa plugin for Tutor",
+    author="Aulasneo",
+    author_email="andres@aulasneo.com",
+    description="Tutor plugin to enable HPA for Kubernetes installations of Open edX",
     long_description=load_readme(),
     packages=find_packages(exclude=["tests*"]),
     include_package_data=True,
     python_requires=">=3.7",
-    install_requires=["tutor"],
+    install_requires=["tutor >= 14.0.0, < 15.0.0"],
     entry_points={
         "tutor.plugin.v1": [
             "hpa = tutorhpa.plugin"
