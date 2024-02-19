@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## Version 16.1.0 (2024-02-19)
 - Fix deprecated calls to RUN_LMS and RUN_CMS
 
 ## Version 16.0.0 (2023-11-17)
