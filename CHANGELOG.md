@@ -1,5 +1,8 @@
 # Changelog
 
+## Unreleased
+- Fix deprecated calls to RUN_LMS and RUN_CMS
+
 ## Version 16.0.0 (2023-11-17)
 - Upgrade to Palm
 
