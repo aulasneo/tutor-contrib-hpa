@@ -1,5 +1,8 @@
 # Changelog
 
+## Unreleased
+- Upgrade to Quince
+
 ## Version 16.1.0 (2024-02-19)
 - Fix deprecated calls to RUN_LMS and RUN_CMS
 
