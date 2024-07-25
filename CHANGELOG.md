@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## Version 17.0.0 (2024-07-25)
 - Upgrade to Quince
 
 ## Version 16.1.0 (2024-02-19)
